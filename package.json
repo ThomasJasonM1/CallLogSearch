@@ -1,0 +1,21 @@
+{
+  "name": "calllogsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callSearch.js",
+  "dependencies": {
+    "count-lines-in-file": "^1.1.0",
+    "csv-reader": "^1.0.2",
+    "dotenv": "^5.0.1",
+    "line-by-line": "^0.1.6",
+    "moment": "^2.22.1",
+    "mysql": "^2.15.0",
+    "node-run-cmd": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
